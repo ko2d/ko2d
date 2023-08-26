@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Kanaku Hogasi
+- 👀 I’m interested in anime
+- 🌱 I’m currently learning zig
